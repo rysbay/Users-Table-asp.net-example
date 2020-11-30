@@ -1,0 +1,4 @@
+Dev OS: Windows 10 
+Dev IDE: Visual Studio 2019
+Dev lang: C#
+Dev Framework: .NET ASP
